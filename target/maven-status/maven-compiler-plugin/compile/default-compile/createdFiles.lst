@@ -1,0 +1,9 @@
+RoomSystem\MeetingRoom.class
+RoomSystem\PolicyHandler.class
+RoomSystem\MeetingRoomRepository.class
+RoomSystem\RoomRegistered.class
+RoomSystem\MeetingRoomController.class
+RoomSystem\Application.class
+RoomSystem\AbstractEvent.class
+RoomSystem\config\kafka\KafkaProcessor.class
+RoomSystem\RoomDelete.class
